@@ -1,8 +1,9 @@
+import org.json.JSONObject;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.Properties;
 
 public class CurrencyExchangeApiClient {
     private String apiKey;
@@ -32,12 +33,15 @@ public class CurrencyExchangeApiClient {
                 content.append(inputLine);
             }
 
-            in.close();
-            return content.toString();
+            JSONObject jsonResponse = new JSONObject(content.toString());
+            double convertedAmount = jsonResponse.getDouble("new_amount");
+
+            return String.format("%.2f %s are %.2f %s", amount, fromCurrency, convertedAmount, toCurrency);
 
         } catch (Exception e) {
             e.printStackTrace();
-            return null;
+            return "Error while calculating exchange amount: " + e.getMessage();
         }
+
     }
 }

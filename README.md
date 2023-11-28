@@ -3,15 +3,15 @@
 ## Table of Contents
 
 - [About the Project](#About)
-    * [Features](##Features)
-- [Getting Started](#Gettings Started)
-    * [Prerequisites](##Prerequisites      )
-    * [Installation](##Installation)
-- [Usage](##Usage)
-- [Contributing](##Contributing)
-- [License](##License)
-- [Contact](##Contact)
-- [Acknowledgements](##Acknowledgements)
+    * [Features](#Features)
+- [Getting Started](#Gettings-Started)
+    * [Prerequisites](#Prerequisites      )
+    * [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Contact](#Contact)
+- [Acknowledgements](#Acknowledgements)
 
 ## About
 This project, "Exchange", is a Java application designed for currency exchange operations. It provides a simple and efficient way to convert different currencies using the latest exchange rates.

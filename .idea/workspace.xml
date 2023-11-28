@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd0a4c8-1495-4949-a2a5-473f754d2fc9" name="Changes" comment="Implemented core features with minimal functionality" />
+    <list default="true" id="58f63b2a-295e-4c3a-950a-c575fd9620eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/exchange1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CurrencyExchangeApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/ConfigManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/CurrencyExchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/CurrencyExchangeApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exchange/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/ConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CurrencyExchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/CurrencyExchangeApiClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/ConfigManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/CurrencyExchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/CurrencyExchangeApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,25 +45,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="872522ff36f32ee7567c5f97400d55956517f90e" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Ylu7sM0Sl4Gidm8rYDekmkZgWE" />
+  <component name="ProjectId" id="2Yo96eos4rlLQhZtRJdxfjdlGAT" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -49,76 +66,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Rebasing master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "last_opened_file_path": "C:/Users/seanh/OneDrive/Dokumente/Dokumente/Priv_Projects/exchange",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/seanh/OneDrive - Ergon Informatik AG/HSLU/Semester/SEM2/PRG/json-20231013.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\seanh\OneDrive\Dokumente\Dokumente\Priv_Projects\exchange\src" />
+      <recent name="C:\Users\seanh\OneDrive\Dokumente\Dokumente\Priv_Projects\exchange1\src\main" />
+      <recent name="C:\Users\seanh\OneDrive\Dokumente\Dokumente\Priv_Projects\exchange1\src" />
+      <recent name="C:\Users\seanh\OneDrive\Dokumente\Dokumente\Priv_Projects\exchange1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="abd0a4c8-1495-4949-a2a5-473f754d2fc9" name="Changes" comment="" />
-      <created>1701112324354</created>
+      <changelist id="58f63b2a-295e-4c3a-950a-c575fd9620eb" name="Changes" comment="" />
+      <created>1701180891880</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1701112324354</updated>
-      <workItem from="1701112326370" duration="534000" />
-      <workItem from="1701112888388" duration="1398000" />
-      <workItem from="1701155512625" duration="8957000" />
-      <workItem from="1701177834431" duration="625000" />
-      <workItem from="1701178578410" duration="93000" />
-      <workItem from="1701178714604" duration="72000" />
-      <workItem from="1701179153996" duration="1031000" />
+      <updated>1701180891880</updated>
+      <workItem from="1701180894912" duration="5923000" />
     </task>
-    <task id="LOCAL-00001" summary="Initialize project setup">
-      <created>1701114290313</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1701114290313</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added CurrencyExchangeApiClient.java">
-      <created>1701165574071</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1701165574071</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Implemented core features with minimal functionality">
-      <created>1701176486369</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1701176486369</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Implemented core features with minimal functionality">
-      <created>1701178444014</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1701178444014</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,12 +115,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Initialize project setup" />
-    <MESSAGE value="Added CurrencyExchangeApiClient.java" />
-    <MESSAGE value="Implemented core features with minimal functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented core features with minimal functionality" />
   </component>
 </project>
